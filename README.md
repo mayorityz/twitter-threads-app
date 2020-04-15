@@ -11,3 +11,7 @@ You simply reply to the last tweet of the thread made by the "Account Holder". A
   - sent a reply to whoever uses the keyword
   - save tweets with mongoDB.
   - build a nice frontend
+
+###### follow me
+twitter - @mayoritycodez
+cheers
